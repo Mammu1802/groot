@@ -93,4 +93,4 @@ public class AsciiCanvas {
         }
         System.out.println(canvas.getCanvasString());
     }
-}
+  }
