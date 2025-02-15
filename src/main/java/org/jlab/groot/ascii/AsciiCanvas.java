@@ -15,7 +15,7 @@ import org.jlab.groot.math.FunctionFactory;
  *
  * @author gavalian
  */
-public class AsciiCanvas {
+public class AsciiCanvas    {
     
     private List<StringBuilder> canvasStrings = new ArrayList<StringBuilder>();
     private int    XSIZE = 0;
