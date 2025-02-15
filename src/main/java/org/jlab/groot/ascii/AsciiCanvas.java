@@ -43,7 +43,7 @@ public class AsciiCanvas {
             StringBuilder str = new StringBuilder();
             for(int k = 0; k < xSize; k++) str.append(" ");
             canvasStrings.add(str);
-            //System.out.println(" adding ->" + str.toString() + "<-");
+            //System.out.println(" merging->" + str.toString() + "<-");
         }
         XSIZE = xSize; YSIZE = ySize;
     }
